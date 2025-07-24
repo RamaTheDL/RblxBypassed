@@ -1,12 +1,10 @@
 local player = game.Players.LocalPlayer
 local replicatedStorage = game:GetService("ReplicatedStorage")
- 
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "e"
 screenGui.Parent = player:WaitForChild("PlayerGui")
 screenGui.ResetOnSpawn = false  
- 
 
 local mainFrame = Instance.new("Frame")
 mainFrame.Size = UDim2.new(0, 490, 0, 1030) 
@@ -12016,52 +12014,52 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";chat others blue2spooky was here")
-	RequestCommand:InvokeServer(";chat others blue2spooky")
+    RequestCommand:InvokeServer(";chat others harkinian was here")
+	RequestCommand:InvokeServer(";chat others harkinian")
 	RequestCommand:InvokeServer(";chat others halp meh")
 	RequestCommand:InvokeServer(";chat others FE BYPASSED!")
 	RequestCommand:InvokeServer(";chat others HOLYEH MOLYEH")
-	RequestCommand:InvokeServer(";chat others blue2spooky owns our souls")
+	RequestCommand:InvokeServer(";chat others harkinian owns our souls")
 	RequestCommand:InvokeServer(";chat others lol wut")
 	RequestCommand:InvokeServer(";chat others gg")
 	
-   RequestCommand:InvokeServer(";chat others blue2spooky was here")
-	RequestCommand:InvokeServer(";chat others blue2spooky")
+   RequestCommand:InvokeServer(";chat others harkinian was here")
+	RequestCommand:InvokeServer(";chat others harkinian")
 	RequestCommand:InvokeServer(";chat others halp meh")
 	RequestCommand:InvokeServer(";chat others FE BYPASSED!")
 	RequestCommand:InvokeServer(";chat others HOLYEH MOLYEH")
-	RequestCommand:InvokeServer(";chat others blue2spooky owns our souls")
+	RequestCommand:InvokeServer(";chat others harkinian owns our souls")
 	RequestCommand:InvokeServer(";chat others lol wut")
 	RequestCommand:InvokeServer(";chat others gg")
 	
-   RequestCommand:InvokeServer(";chat others blue2spooky was here")
-	RequestCommand:InvokeServer(";chat others blue2spooky")
+   RequestCommand:InvokeServer(";chat others harkinian was here")
+	RequestCommand:InvokeServer(";chat others harkinian")
 	RequestCommand:InvokeServer(";chat others halp meh")
 	RequestCommand:InvokeServer(";chat others FE BYPASSED!")
 	RequestCommand:InvokeServer(";chat others HOLYEH MOLYEH")
-	RequestCommand:InvokeServer(";chat others blue2spooky owns our souls")
+	RequestCommand:InvokeServer(";chat others harkinian owns our souls")
 	RequestCommand:InvokeServer(";chat others lol wut")
 	RequestCommand:InvokeServer(";chat others gg")
 
-   RequestCommand:InvokeServer(";chat others blue2spooky was here")
-	RequestCommand:InvokeServer(";chat others blue2spooky")
+   RequestCommand:InvokeServer(";chat others harkinian was here")
+	RequestCommand:InvokeServer(";chat others harkinian")
 	RequestCommand:InvokeServer(";chat others halp meh")
 	RequestCommand:InvokeServer(";chat others FE BYPASSED!")
 	RequestCommand:InvokeServer(";chat others HOLYEH MOLYEH")
-	RequestCommand:InvokeServer(";chat others blue2spooky owns our souls")
+	RequestCommand:InvokeServer(";chat others harkinian owns our souls")
 	RequestCommand:InvokeServer(";chat others lol wut")
 	RequestCommand:InvokeServer(";chat others gg")
 
-   RequestCommand:InvokeServer(";chat others blue2spooky was here")
-	RequestCommand:InvokeServer(";chat others blue2spooky")
+   RequestCommand:InvokeServer(";chat others harkinian was here")
+	RequestCommand:InvokeServer(";chat others harkinian")
 	RequestCommand:InvokeServer(";chat others halp meh")
 	RequestCommand:InvokeServer(";chat others FE BYPASSED!")
 	RequestCommand:InvokeServer(";chat others HOLYEH MOLYEH")
-	RequestCommand:InvokeServer(";chat others blue2spooky owns our souls")
+	RequestCommand:InvokeServer(";chat others harkinian owns our souls")
 	RequestCommand:InvokeServer(";chat others lol wut")
 	RequestCommand:InvokeServer(";chat others gg")
 
-   RequestCommand:InvokeServer(";chat others blue2spooky was here")
+   RequestCommand:InvokeServer(";chat others harkinian was here")
 	RequestCommand:InvokeServer(";chat others ")
 	RequestCommand:InvokeServer(";chat others HACKED")
 	RequestCommand:InvokeServer(";chat others FE BYPASSED!")
@@ -12081,7 +12079,7 @@ scriptbyblue2spooky.BackgroundColor3 = Color3.new(0, 0, 0)
 scriptbyblue2spooky.BorderSizePixel = 1
 scriptbyblue2spooky.BorderColor3 = Color3.new(0, 0, 1)
 scriptbyblue2spooky.Font = Enum.Font.Roboto
-scriptbyblue2spooky.Text = "savemap"
+scriptbyblue2spooky.Text = "spam zombie"
 scriptbyblue2spooky.TextColor3 = Color3.new(1, 1, 1)
 scriptbyblue2spooky.TextSize = 20 
 scriptbyblue2spooky.TextWrapped = true
@@ -12092,7 +12090,10 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local ReplicatedStorage = game:GetService("ReplicatedStorage")
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
-    RequestCommand:InvokeServer(";savemap")
+    for i=1, 10 do
+		RequestCommand:InvokeServer(";insert 187789986")
+		wait(0.05)
+	end
 
 end)
 
@@ -12255,34 +12256,34 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
     local RequestCommand = ReplicatedStorage:WaitForChild("HDAdminHDClient").Signals.RequestCommand
  
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
-	RequestCommand:InvokeServer(";systemmessage FE BYPASSED")
+	RequestCommand:InvokeServer(";shint FE BYPASSED")
 
 end)
-
